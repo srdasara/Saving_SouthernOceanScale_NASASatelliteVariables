@@ -1,2 +1,19 @@
-# Saving_SouthernOceanScale_NASASatelliteVariables
-This repository is dedicated to sharing my code on how I grab satellite data metrics, marine aerosol optical depth (MAOD), chlorophyll-a concentration, sea ice, and wind speed. 
+# Saving Southern Ocean-scale variables from NASA CALIPSO, MODIS, and passive microwave remote sensing sensors  
+This repository is dedicated towards showing my methods for extracting and calculating marine aerosol optical depth (MAOD), depolarization ratio or sea ice, chlorophyll-_a_ concentration, and wind speed. Check out the videos below, which provided a good sanity check that I'm doing this correctly! 
+
+
+
+https://user-images.githubusercontent.com/37392984/138304300-c1116cf5-b072-49ce-a7f6-9a3183de8f16.mp4
+
+
+
+https://user-images.githubusercontent.com/37392984/138304496-4907a764-058f-446d-b3f2-d2abcc810bc0.mp4
+
+
+
+https://user-images.githubusercontent.com/37392984/138304445-ac99b18f-1950-433f-9704-d19e86ca89b5.mp4
+
+
+
+https://user-images.githubusercontent.com/37392984/138304405-6ad0079b-013e-47c8-8cb3-4244934e9fb8.mp4
+
