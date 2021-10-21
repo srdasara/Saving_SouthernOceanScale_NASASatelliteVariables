@@ -4,19 +4,9 @@ This repository is dedicated towards showing my methods for extracting and calcu
 
 
 https://user-images.githubusercontent.com/37392984/138304300-c1116cf5-b072-49ce-a7f6-9a3183de8f16.mp4
-
-
-
 https://user-images.githubusercontent.com/37392984/138304496-4907a764-058f-446d-b3f2-d2abcc810bc0.mp4
-
-
-
-
-
 https://user-images.githubusercontent.com/37392984/138304617-1a1298d8-9380-4646-95f7-20c6069892fc.mp4
+https://user-images.githubusercontent.com/37392984/138304834-95e53a61-09f0-4216-9d62-33b57f451eae.mp4
 
 
-
-
-https://user-images.githubusercontent.com/37392984/138304405-6ad0079b-013e-47c8-8cb3-4244934e9fb8.mp4
 
