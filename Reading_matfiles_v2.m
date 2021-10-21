@@ -1,6 +1,6 @@
-
-%% I read these data from the CALIPSO server!!
-%% Preprocessing of 5kmApro Files
+%% This script is all about extracting MAOD, Depolarization Ratio (sea ice), Color Ratio (metric for inferring size of aerosol particle), and Particulate Depolarization Ratio (metric for inferring shape of aerosol particle). 
+% I read these data from the CALIPSO server!!
+% Preprocessing of 5kmApro Files
 s       = struct() ;
 mat_dir = '/SCF8/CALIPSO/Users/sdasarat';
 % '/Volumes/Chip Data Disk/CALIPSO_LID_L2_05kmAPro-Standard-V4-20'; %% use volumes to access hard drive
