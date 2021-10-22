@@ -1,5 +1,5 @@
 # Saving Southern Ocean-scale variables from NASA CALIPSO, MODIS, and passive microwave remote sensing sensors  
-This repository is dedicated towards showing my methods for extracting and calculating marine aerosol optical depth (MAOD), depolarization ratio or sea ice, chlorophyll-_a_ concentration, and wind speed. Check out the videos below, which provided a rough sanity check that I'm doing this correctly! As an aside, these are Not publication-worthy figures, but allowed me to feel confident in conducting future analyses since the data grab worked correctly. 
+This repository is dedicated towards showing my methods for extracting and calculating marine aerosol optical depth (MAOD), depolarization ratio or sea ice, chlorophyll-_a_ concentration, and wind speed. Check out the videos below, which provided a rough sanity check that I'm doing this correctly! As an aside, these are *NOT* publication-worthy figures, but allowed me to feel confident in conducting future analyses since the data grab worked correctly. 
 
 
 
